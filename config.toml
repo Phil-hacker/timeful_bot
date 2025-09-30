@@ -1,0 +1,8 @@
+[[channel]]
+name = "Cooking Time"
+start_hour = 16
+duration = 8
+message = "# New Timeful Link\n<@&1373790725635969044>\n%link%"
+webhooks = [
+    "https://discord.com/api/webhooks/1417196242596925630/4YkHYzb79DhWskOwJz45ZLWd7YL7sb5iHwTFb0A4Txm8ZqTC5P44PlHLzRhOoWc5ONIw",
+]

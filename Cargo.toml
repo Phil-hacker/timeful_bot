@@ -1,0 +1,11 @@
+[package]
+name = "timeful_bot"
+version = "0.2.0"
+edition = "2024"
+
+[dependencies]
+chrono = { version = "0.4.42", features = ["clock", "serde"] }
+reqwest = { version = "0.12.23", features = ["blocking", "json"] }
+serde = { version = "1.0.224", features = ["derive"] }
+serde_json = "1.0.145"
+toml = "0.9.7"
